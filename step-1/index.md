@@ -105,7 +105,7 @@
 
 先这么多吧，太长了人也懒得看，有兴趣的再看下一篇吧。
 
-[高阶篇](/salmonrun/step-2/index.html)
+[下一篇：高阶篇](/salmonrun/step-2/index.html)
 
 switch id：7859-0553-1104
 switch昵称：woflow

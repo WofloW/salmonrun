@@ -113,7 +113,7 @@ splatoon2乌贼打工宝典（高阶篇）
 splatoon2乌贼打工宝典（高阶篇）
 
 
-[小提示篇](/salmonrun/tips/index.html)
+[下一篇：小提示篇](/salmonrun/tips/index.html)
 
 switch id：7859-0553-1104
 switch昵称：woflow
