@@ -1,3 +1,5 @@
+[回到首页](/salmonrun)
+
 打工有特别关卡，就是黑夜
 
 普通水位和涨潮可能出现：
@@ -110,6 +112,8 @@ splatoon2乌贼打工宝典（高阶篇）
 
 splatoon2乌贼打工宝典（高阶篇）
 
+
+[小提示篇](/salmonrun/tips/index.html)
 
 switch id：7859-0553-1104
 switch昵称：woflow
