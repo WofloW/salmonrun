@@ -107,8 +107,3 @@
 
 [下一篇：高阶篇](/salmonrun/step-2/index.html)
 
-switch id：7859-0553-1104
-switch昵称：woflow
-打工集散地qq群：138151784
-版权所有：夜风
-图片来源：http://splatoon.wikia.com/wiki

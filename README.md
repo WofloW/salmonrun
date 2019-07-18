@@ -11,3 +11,9 @@
 [b站翻译搬运的外国玩家打工教学视频](https://www.bilibili.com/video/av50470639/)  
 
 
+switch id：7859-0553-1104  
+switch昵称：woflow  
+打工集散地qq群：138151784  
+版权所有：夜风  
+灵感提供:UMA 等等  
+图片来源：http://splatoon.wikia.com/wiki，google及其他网络

@@ -114,8 +114,3 @@ splatoon2乌贼打工宝典（高阶篇）
 
 
 [下一篇：小提示篇](/salmonrun/tips/index.html)
-
-switch id：7859-0553-1104
-switch昵称：woflow
-打工集散地qq群：138151784
-版权所有：夜风
