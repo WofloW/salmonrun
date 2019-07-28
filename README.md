@@ -12,7 +12,7 @@ b站翻译搬运的外国玩家打工教学视频 `https://www.bilibili.com/vide
 [打工武器排行](/salmonrun/weapon-tier)  
 [BOSS具体数据](https://splatoonwiki.org/wiki/Salmon_Run_data)  
 [间歇泉和伞的模拟](https://gungeespla.github.io/salmon_learn/)  
-[惯性取消教学](https://www.bilibili.com/video/av45939137?zw)  
+惯性取消教学 `https://www.bilibili.com/video/av45939137?zw`  
 
 switch id：7859-0553-1104  
 switch昵称：woflow  
