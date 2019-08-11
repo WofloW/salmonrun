@@ -15,6 +15,7 @@ b站翻译搬运的外国玩家打工教学视频 `https://www.bilibili.com/vide
 [间歇泉和伞的模拟](https://gungeespla.github.io/salmon_learn/)  
 惯性取消教学 `https://www.bilibili.com/video/av45939137`  
 b站别人搬运的打工教学视频 `https://www.bilibili.com/video/av50470639/`  
+ゆ鮪魚ゅ的splatoon2打工小教學 `bilibili.com/video/av61510410`
 
 (因为b站的链接点击会跳转到404页面，请自行复制链接打开页面)
 
