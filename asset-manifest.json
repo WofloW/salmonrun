@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salmonrun/rotation/static/css/main.21fc25e7.chunk.css",
+    "main.js": "/salmonrun/rotation/static/js/main.f3bc84f6.chunk.js",
+    "main.js.map": "/salmonrun/rotation/static/js/main.f3bc84f6.chunk.js.map",
+    "runtime~main.js": "/salmonrun/rotation/static/js/runtime~main.f84181e3.js",
+    "runtime~main.js.map": "/salmonrun/rotation/static/js/runtime~main.f84181e3.js.map",
+    "static/js/2.6a2e5a7f.chunk.js": "/salmonrun/rotation/static/js/2.6a2e5a7f.chunk.js",
+    "static/js/2.6a2e5a7f.chunk.js.map": "/salmonrun/rotation/static/js/2.6a2e5a7f.chunk.js.map",
+    "index.html": "/salmonrun/rotation/index.html",
+    "precache-manifest.870664eeb2ae5e50a11d468919c5da4f.js": "/salmonrun/rotation/precache-manifest.870664eeb2ae5e50a11d468919c5da4f.js",
+    "service-worker.js": "/salmonrun/rotation/service-worker.js",
+    "static/css/main.21fc25e7.chunk.css.map": "/salmonrun/rotation/static/css/main.21fc25e7.chunk.css.map"
+  }
+}
