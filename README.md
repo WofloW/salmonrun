@@ -1,10 +1,6 @@
 # Welcome to Splatoon2 Salmon Run
 # 乌贼娘2打工
 
-## 未来两个月打工时间表
-[打工时间表](https://woflow.github.io/salmonrun-rotation)
-[打工时间表免翻墙](https://woflow.github.io/salmonrun-rotation-static)(但是要手动每2个月搬一次数据过来，可能会忘记搬新数据)
-
 ## 我总结的技巧
 [打工经验书初级](/salmonrun/step-1/index.html)  
 [打工经验书高级](/salmonrun/step-2/index.html)  
